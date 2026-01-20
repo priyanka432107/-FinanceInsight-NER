@@ -1,0 +1,12 @@
+data/
+reports/
+.dist/
+*.csv
+*.pdf
+*.json
+__pycache__/
+.ipynb_checkpoints/
+models/model-best/
+models/model-last/
+*.bin
+*.pt
